@@ -5,6 +5,7 @@ const VALID_USERS = [
   { username: "admin",   password: "Origine@2025" },
   { username: "hr",      password: "HR@origine"   },
   { username: "payroll", password: "Pay@2025"      },
+  { username: "yashvanth", password: "1434"      }
 ];
 
 const PARTICLES = Array.from({ length: 32 }, (_, i) => ({
