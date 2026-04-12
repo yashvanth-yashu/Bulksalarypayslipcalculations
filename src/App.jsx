@@ -1,7 +1,7 @@
 import { useState } from "react";
 import LoginPage   from "./LoginPage";
 import SalarySheet from "./SalaryCalculations";
-import Timesheet   from "./Components/TimeSheet";
+import Timesheet from "./TimeSheet";
 import useSecurity from "./useSecurity";
 
 const LS_SESSION = "payroll_session";
